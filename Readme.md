@@ -1,6 +1,6 @@
-Projeto Laboratório terraform.
+*Projeto Laboratório terraform.*
 
--Perfil Traffic Manager 
+  -Perfil Traffic Manager 
   -Roteamento por desempenho, ponto final "mais próximo" para a menor latência da rede..
   -Dois endpoints: 
     -Load Balancer no Brasil
