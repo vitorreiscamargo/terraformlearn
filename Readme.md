@@ -1,6 +1,6 @@
-# Projeto Laboratório terraform. #
+## Projeto Laboratório terraform. ##
  
- - ## Perfil Traffic Manager. ##
+ - ### Perfil Traffic Manager. ###
 -  _Roteamento por desempenho._
 - ### Endpoints: ###  
  1. Load Balancer no Brasil.
